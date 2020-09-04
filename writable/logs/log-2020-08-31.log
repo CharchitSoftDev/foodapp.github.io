@@ -1,0 +1,111 @@
+CRITICAL - 2020-08-31 03:41:19 --> Too few arguments to function App\Controllers\Registration::saveFood(), 0 passed in /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php on line 918 and exactly 1 expected
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->saveFood()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-31 03:41:49 --> Too few arguments to function App\Controllers\Registration::saveFood(), 0 passed in /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php on line 918 and exactly 1 expected
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->saveFood()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-31 03:42:06 --> Class 'App\Controllers\FoodItem' not found
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->saveFood()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-31 03:42:18 --> Class 'App\Models\FoodItems' not found
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->saveFood()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-31 04:55:41 --> Undefined variable: food
+#0 /srv/sites/project-root/app/Views/pages/restaurant_dashboard.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/srv/sites/proj...', 17, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include('/srv/sites/proj...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/restauran...', Array, true)
+#3 /srv/sites/project-root/app/Controllers/Registration.php(22): view('pages/restauran...', Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view('restaurant_dash...')
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-31 04:57:02 --> Cannot use object of type mysqli as array
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/restauran...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(40): view('pages/restauran...', Array)
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->getFoodItems()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-31 06:16:45 --> Undefined index: Name
+#0 /srv/sites/project-root/app/Views/pages/menu.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/srv/sites/proj...', 24, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include('/srv/sites/proj...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/menu', Array, true)
+#3 /srv/sites/project-root/app/Controllers/Registration.php(45): view('pages/menu', Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->menu()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-31 06:17:53 --> Undefined index: Name
+#0 /srv/sites/project-root/app/Views/pages/menu.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/srv/sites/proj...', 24, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include('/srv/sites/proj...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/menu', Array, true)
+#3 /srv/sites/project-root/app/Controllers/Registration.php(45): view('pages/menu', Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->menu()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-31 06:38:48 --> Call to a member function store() on null
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->saveFood()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-31 07:02:56 --> Use of undefined constant writable - assumed 'writable' (this will throw an Error in a future version of PHP)
+#0 /srv/sites/project-root/app/Views/pages/restaurant_dashboard.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/srv/sites/proj...', 27, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include('/srv/sites/proj...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/restauran...', Array, true)
+#3 /srv/sites/project-root/app/Controllers/Registration.php(40): view('pages/restauran...', Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->getFoodItems()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-31 07:39:54 --> Call to a member function getClientName() on boolean
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->saveFood()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-31 09:02:23 --> Undefined property: App\Controllers\Registration::$input
+#0 /srv/sites/project-root/app/Controllers/Registration.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/srv/sites/proj...', 28, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->save()
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-31 09:03:38 --> Undefined property: App\Controllers\Registration::$uri
+#0 /srv/sites/project-root/app/Controllers/Registration.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/srv/sites/proj...', 28, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->save()
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-31 09:54:45 --> Unknown column 'restaurant_name' in 'field list'
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `cu...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cu...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cu...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cu...', Array, false)
+#4 /srv/sites/project-root/app/Models/UserModel.php(12): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /srv/sites/project-root/app/Controllers/Registration.php(37): App\Models\UserModel->saveCustomer(Array)
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->save()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#8 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}

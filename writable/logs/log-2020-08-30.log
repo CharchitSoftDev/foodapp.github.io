@@ -1,0 +1,266 @@
+CRITICAL - 2020-08-30 04:57:18 --> Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP)
+#0 /srv/sites/project-root/app/Views/pages/home.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/srv/sites/proj...', 18, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include('/srv/sites/proj...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 /srv/sites/project-root/app/Controllers/Registration.php(22): view('pages/home', Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 05:01:35 --> Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP)
+#0 /srv/sites/project-root/app/Views/pages/home.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/srv/sites/proj...', 18, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include('/srv/sites/proj...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 /srv/sites/project-root/app/Controllers/Registration.php(22): view('pages/home', Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 06:52:49 --> Function name must be a string
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/register', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(22): view('pages/register', Array)
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view('register')
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-30 08:01:28 --> Too few arguments to function App\Controllers\Registration::login(), 0 passed in /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php on line 918 and exactly 1 expected
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-30 08:18:44 --> Too few arguments to function App\Controllers\Registration::login(), 0 passed in /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php on line 918 and exactly 1 expected
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-30 08:21:36 --> Call to undefined function set_value()
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/home', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(22): view('pages/home', Array)
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-30 08:23:06 --> Too few arguments to function App\Controllers\Registration::login(), 0 passed in /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php on line 918 and exactly 1 expected
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-30 08:25:12 --> Too few arguments to function App\Controllers\Registration::login(), 0 passed in /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php on line 918 and exactly 1 expected
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-30 08:26:26 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'fsdasdfsafd', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:26:46 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'afdasdfasdfas', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:28:31 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'afdasdfasdfas', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:28:39 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'asffsafsa', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:29:27 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'asffsafsa', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:29:28 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'asffsafsa', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:29:28 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'asffsafsa', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:29:28 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'asffsafsa', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:29:29 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'asffsafsa', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:29:29 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'asffsafsa', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:29:34 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array, Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:35:01 --> Undefined variable: errors
+#0 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/srv/sites/proj...', 55, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-30 08:35:16 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:35:35 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 08:35:45 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 09:41:12 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 11:00:12 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 11:00:48 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 11:01:00 --> validateUser is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 11:01:22 -->  is not a valid rule.
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Validation/Validation.php(189): CodeIgniter\Validation\Validation->processRules('password', 'password', 'dafdfdsgetrsgdf...', Array, Array)
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 /srv/sites/project-root/app/Controllers/Registration.php(55): CodeIgniter\Controller->validate(Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-30 11:02:34 --> Undefined variable: session
+#0 /srv/sites/project-root/app/Controllers/Registration.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/srv/sites/proj...', 57, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->login()
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

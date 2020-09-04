@@ -1,0 +1,10 @@
+CRITICAL - 2020-09-04 02:56:06 --> Undefined variable: food
+#0 /srv/sites/project-root/app/Views/pages/restaurant_dashboard.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/srv/sites/proj...', 25, Array)
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(246): include('/srv/sites/proj...')
+#2 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('pages/restauran...', Array, true)
+#3 /srv/sites/project-root/app/Controllers/Registration.php(21): view('pages/restauran...', Array)
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view('restaurant_dash...')
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

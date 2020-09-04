@@ -1,0 +1,430 @@
+CRITICAL - 2020-08-29 06:34:36 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:34:47 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:34:55 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:36:58 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:36:59 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:42:15 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:47:35 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:47:41 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 06:48:14 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/srv/sites/proj...')
+#8 {main}
+CRITICAL - 2020-08-29 06:48:25 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/srv/sites/proj...')
+#8 {main}
+CRITICAL - 2020-08-29 06:51:35 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/srv/sites/proj...')
+#8 {main}
+CRITICAL - 2020-08-29 06:51:56 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/srv/sites/proj...')
+#8 {main}
+CRITICAL - 2020-08-29 06:53:20 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/srv/sites/proj...')
+#8 {main}
+CRITICAL - 2020-08-29 11:06:34 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/srv/sites/proj...')
+#8 {main}
+CRITICAL - 2020-08-29 11:06:36 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /srv/sites/project-root/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/srv/sites/proj...')
+#8 {main}
+CRITICAL - 2020-08-29 11:06:56 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:07:10 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:07:11 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:08:14 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:08:20 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:08:28 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:10:57 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:15:06 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:15:07 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:15:08 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:15:08 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:15:08 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:15:29 --> Invalid file: Welcome to the FoodShala. Please Register !
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:15:57 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:17:20 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:17:35 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(9): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:18:33 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:18:34 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:18:34 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:18:34 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:18:34 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:18:35 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:19:03 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:20:52 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:20:54 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:20:54 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:20:54 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:20:55 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:20:55 --> Invalid file: Welcome to the FoodShala. Please Register
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Welcome to the ...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('Welcome to the ...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(7): view('Welcome to the ...')
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->index()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:28:21 --> Invalid file: templates/header.php
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(20): view('templates/heade...', Array)
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 11:31:32 --> Invalid file: templates/header.php
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(19): view('templates/heade...', Array)
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-29 12:05:28 --> Invalid file: templates/header.php
+#0 /srv/sites/project-root/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 /srv/sites/project-root/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 /srv/sites/project-root/app/Controllers/Registration.php(19): view('templates/heade...', Array)
+#3 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Registration->view()
+#4 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#5 /srv/sites/project-root/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /srv/sites/project-root/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
